@@ -1,0 +1,19 @@
+body {
+    background: rgb(167, 200, 167);
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(1, 3, 8);
+    font-weight: normal;
+    text-align: justify;
+}
+h1,h2,h3 {
+    color: rgb(0, 7, 2);
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: italic;
+}
+img{
+    height: auto;
+    width: 800px;
+    position: relative;
+}

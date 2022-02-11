@@ -1,0 +1,12 @@
+body {
+    background: lightsteelblue;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(1, 3, 8);
+}
+h1,h2,h3 {
+    color: rgb(0, 7, 2);
+    font-size: 20px;
+    font-weight: bold;
+    
+}
