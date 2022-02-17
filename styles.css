@@ -8,9 +8,9 @@ body {
   padding: 200px; 
   margin: 300px;
   border: 10px solid green;
-  font: bold;
+  font-weight: bold;
   font-style: italic;
   background-position: center;
   text-align: center;
-  
+  font-family: "Times New Roman;  
 }
